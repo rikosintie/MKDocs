@@ -6,6 +6,7 @@ Video explaining how to use github pages: [Youtube](https://www.youtube.com/watc
 ## Code Annotations Examples
 
 ### Codeblocks
+
 some `code` goes here.
 
 ### Plain code block
