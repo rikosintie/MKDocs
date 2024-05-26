@@ -50,7 +50,7 @@ def create_filename(sub_dir1: str, extension: str = "", sub_dir2="") -> str:
     return int_report
 ```
 
-```py title="function for removing blank lines" hl_lines="13-16"
+```py title="function for removing blank lines" hl_lines="11-13"
 def remove_empty_lines(filename: str) -> str:
     """
     Removes empty lines from the file
