@@ -4,6 +4,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 Video explaining how to use github pages: [Youtube](https://www.youtube.com/watch?v=Q-YA_dA8C20)
 
+[Code blocks](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/)
+
 ## Code Annotations Examples
 
 ### Codeblocks
