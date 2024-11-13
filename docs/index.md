@@ -83,7 +83,7 @@ def remove_empty_lines(filename: str) -> str:
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, and other files.
+        ...       # Additional markdown pages, and other files.
         img/      # Images
 
 ## Icons and Emojis
