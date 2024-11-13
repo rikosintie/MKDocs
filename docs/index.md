@@ -78,12 +78,13 @@ def remove_empty_lines(filename: str) -> str:
         filehandle.writelines(lines)
 ```
 
-## Project layout
+## Project Directory Layout
 
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        ...       # Other markdown pages, and other files.
+        img/      # Images
 
 ## Icons and Emojis
 
