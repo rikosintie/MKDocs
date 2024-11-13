@@ -6,6 +6,7 @@ Video explaining how to use github pages: [Youtube](https://www.youtube.com/watc
 
 [Code blocks](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/)
 
+
 ## Code Annotations Examples
 
 ### Codeblocks
