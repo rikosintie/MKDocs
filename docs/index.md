@@ -119,7 +119,7 @@ Emojis can be integrated in Markdown by putting the shortcode of the emoji betwe
 
 ## Admonitions
 
-Admonitions, also known as call-outs, are an excellent choice for including side content without significantly interrupting the document flow. Material for MkDocs provides several different types of admonitions and allows for the inclusion and nesting of arbitrary content.
+[Admonitions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/), also known as call-outs, are an excellent choice for including side content without significantly interrupting the document flow. Material for MkDocs provides several different types of admonitions and allows for the inclusion and nesting of arbitrary content.
 
 Each of the supported admonition types has a distinct icon, which can be changed to any icon bundled with the theme, or even a [custom icon](https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/#additional-icons). Add the following lines to mkdocs.yml:
 
@@ -192,7 +192,7 @@ By default, the title will equal the type qualifier in titlecase. However, it ca
     massa, nec semper lorem quam in massa.
 ```
 
-Removing the title¶
+Removing the title
 Similar to [changing the title](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#changing-the-title), the icon and title can be omitted entirely by adding an empty string directly after the type qualifier. Note that this will not work for [collapsible blocks](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#collapsible-blocks):
 
 ```
@@ -255,12 +255,12 @@ Important: admonitions that use the `inline` modifiers must be declared prior to
 Following is a list of type qualifiers provided by Material for MkDocs, whereas the default type, and thus fallback for unknown type qualifiers, is `note`:
 
 note
-``` note
+```!!! note
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa
 ```
 
 abstract
-``` abstract
+```!!! abstract
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 ```
 
