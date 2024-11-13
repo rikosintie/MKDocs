@@ -88,7 +88,7 @@ def remove_empty_lines(filename: str) -> str:
 
 ## Icons and Emojis
 
-https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search
+[Search Icons and Emojies here](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search)
 
 This configuration enables the use of icons and emojis by using simple shortcodes which can be discovered through the icon search. Add the following lines to mkdocs.yml:
 
