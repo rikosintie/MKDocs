@@ -4,6 +4,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 Video explaining how to use github pages: [Youtube](https://www.youtube.com/watch?v=Q-YA_dA8C20)
 
+Video covering Admonitions and other features: [Material for MkDocs: Full Tutorial To Build And Deploy Your Docs Portal](https://www.youtube.com/watch?v=xlABhbnNrfI) 
+
 [Code blocks](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/)
 
 
