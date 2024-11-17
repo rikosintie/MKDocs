@@ -132,7 +132,7 @@ theme:
       <type>: <icon>
 ```
 
-!!! title="Github and Fontawesom icons"
+## Github and Fontawesome icons
 
 === "Alternate Icons Github"
 
