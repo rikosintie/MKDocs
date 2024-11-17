@@ -132,9 +132,8 @@ theme:
       <type>: <icon>
 ```
 
-Alternate Icons Github
+=== "Alternate Icons Github"
 
-```
 theme:
   icon:
     admonition:
@@ -150,11 +149,9 @@ theme:
       bug: octicons/bug-16
       example: octicons/beaker-16
       quote: octicons/quote-16
-```
 
-Alternate Icons Fontawesome
+=== "Alternate Icons Fontawesome"
 
-```
 theme:
   icon:
     admonition:
@@ -170,7 +167,6 @@ theme:
       bug: fontawesome/solid/robot
       example: fontawesome/solid/flask
       quote: fontawesome/solid/quote-left
-```
 
 ### Usage
 Admonitions follow a simple syntax: a block starts with !!!, followed by a single keyword used as a type qualifier. The content of the block follows on the next line, indented by four spaces:
@@ -319,4 +315,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 
 ### Admonition icons
 
+
+## Content Tabs
+
+This is some examples of content tabs.
+
+### Generic Content
+
+=== "Plain text"
+
+    This is some plain text
+
+=== "Unordered list"
+
+    * First item
+    * Second item
+    * Third item
+
+=== "Ordered list"
+
+    1. First item
+    2. Second item
+    3. Third item
 
