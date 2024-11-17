@@ -6,6 +6,8 @@ Video explaining how to use github pages: [Youtube](https://www.youtube.com/watc
 
 Video covering Admonitions and other features: [Material for MkDocs: Full Tutorial To Build And Deploy Your Docs Portal](https://www.youtube.com/watch?v=xlABhbnNrfI) 
 
+The [text](https://jameswillett.dev/getting-started-with-material-for-mkdocs/#default-font) for the video with code snippets
+
 ## Code Blocks
 
 [Code blocks](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/) and examples are an essential part of technical project documentation. Material for MkDocs provides different ways to set up syntax highlighting for code blocks, either during build time using Pygments or during runtime using a JavaScript syntax highlighter.
