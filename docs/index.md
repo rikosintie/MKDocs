@@ -132,8 +132,11 @@ theme:
       <type>: <icon>
 ```
 
+!!! title="Github and Fontawesom icons"
+
 === "Alternate Icons Github"
 
+```
 theme:
   icon:
     admonition:
@@ -149,9 +152,11 @@ theme:
       bug: octicons/bug-16
       example: octicons/beaker-16
       quote: octicons/quote-16
+```
 
 === "Alternate Icons Fontawesome"
 
+```
 theme:
   icon:
     admonition:
@@ -167,6 +172,7 @@ theme:
       bug: fontawesome/solid/robot
       example: fontawesome/solid/flask
       quote: fontawesome/solid/quote-left
+```
 
 ### Usage
 Admonitions follow a simple syntax: a block starts with !!!, followed by a single keyword used as a type qualifier. The content of the block follows on the next line, indented by four spaces:
