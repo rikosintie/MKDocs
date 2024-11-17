@@ -136,43 +136,43 @@ theme:
 
 === "Alternate Icons Github"
 
-```
-theme:
-  icon:
-    admonition:
-      note: octicons/tag-16
-      abstract: octicons/checklist-16
-      info: octicons/info-16
-      tip: octicons/squirrel-16
-      success: octicons/check-16
-      question: octicons/question-16
-      warning: octicons/alert-16
-      failure: octicons/x-circle-16
-      danger: octicons/zap-16
-      bug: octicons/bug-16
-      example: octicons/beaker-16
-      quote: octicons/quote-16
-```
+    ```
+    theme:
+      icon:
+        admonition:
+          note: octicons/tag-16
+          abstract: octicons/checklist-16
+          info: octicons/info-16
+          tip: octicons/squirrel-16
+          success: octicons/check-16
+          question: octicons/question-16
+          warning: octicons/alert-16
+          failure: octicons/x-circle-16
+          danger: octicons/zap-16
+          bug: octicons/bug-16
+          example: octicons/beaker-16
+          quote: octicons/quote-16
+    ```
 
 === "Alternate Icons Fontawesome"
 
-```
-theme:
-  icon:
-    admonition:
-      note: fontawesome/solid/note-sticky
-      abstract: fontawesome/solid/book
-      info: fontawesome/solid/circle-info
-      tip: fontawesome/solid/bullhorn
-      success: fontawesome/solid/check
-      question: fontawesome/solid/circle-question
-      warning: fontawesome/solid/triangle-exclamation
-      failure: fontawesome/solid/bomb
-      danger: fontawesome/solid/skull
-      bug: fontawesome/solid/robot
-      example: fontawesome/solid/flask
-      quote: fontawesome/solid/quote-left
-```
+    ```
+    theme:
+      icon:
+        admonition:
+          note: fontawesome/solid/note-sticky
+          abstract: fontawesome/solid/book
+          info: fontawesome/solid/circle-info
+          tip: fontawesome/solid/bullhorn
+          success: fontawesome/solid/check
+          question: fontawesome/solid/circle-question
+          warning: fontawesome/solid/triangle-exclamation
+          failure: fontawesome/solid/bomb
+          danger: fontawesome/solid/skull
+          bug: fontawesome/solid/robot
+          example: fontawesome/solid/flask
+          quote: fontawesome/solid/quote-left
+    ```
 
 ### Usage
 Admonitions follow a simple syntax: a block starts with !!!, followed by a single keyword used as a type qualifier. The content of the block follows on the next line, indented by four spaces:
