@@ -8,6 +8,8 @@ Video covering Admonitions and other features: [Material for MkDocs: Full Tutori
 
 The [text](https://jameswillett.dev/getting-started-with-material-for-mkdocs/#default-font) for the video with code snippets
 
+The [Github Repo for the vidoes](https://github.com/james-willett/material-mkdocs-youtube-2024)
+
 ## Code Blocks
 
 [Code blocks](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/) and examples are an essential part of technical project documentation. Material for MkDocs provides different ways to set up syntax highlighting for code blocks, either during build time using Pygments or during runtime using a JavaScript syntax highlighter.
